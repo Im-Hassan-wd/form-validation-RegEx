@@ -1,0 +1,33 @@
+*{
+  font-family: "Montserrat"
+}
+body{
+  background:  #ff9a9e;
+}
+form{
+  max-width: 400px;
+  margin: 200px auto;
+  background: #fad0c4;
+  padding: 30px 10px;
+}
+input{
+  display: block;
+  margin: 10px auto;
+  padding: 4px;
+  outline-color:#fff;
+  border: 1px solid #fff;
+}
+.error{
+  display: block;
+  margin: 10px auto;
+  padding: 4px;
+  outline-color:red;
+  border: 1px solid red;
+}
+.success{
+  display: block;
+  margin: 10px auto;
+  padding: 4px;
+  outline-color: green;
+  border: 1px solid green;
+}
